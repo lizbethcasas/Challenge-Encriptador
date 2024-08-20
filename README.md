@@ -7,7 +7,7 @@
 <h4 align="left">
 :mortar_board: Breve descripcion del proyecto final:mortar_board:
 </h4>
-<p>En esta asignacion se esta realizando la encriptacion y desencriptacion de las siguientes vocales:</p>
+<p>En esta asignacion se esta realizando la encriptacion y desencriptacion de las siguientes vocales indicados por Oracle Next Education (ONE) de Oracle + Alura LATAM:</p>
 <ul>
 <li>e = enter</li>
 <li>i = imes</li>
@@ -15,6 +15,9 @@
 <li>o = ober</li>
 <li>u = ufat</li>
 </ul>
+<h4 align="left">
+:pushpin: Extras:pushpin:
+</h4>
 <p>Donde finalmente se tiene la funcionalidad de copiar la la frase encriptada, para luego ser desencriptada</p>
 <h4 align="left">
 :pushpin: Tecnologías utilizadas:pushpin:
